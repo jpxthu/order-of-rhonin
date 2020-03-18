@@ -1,6 +1,6 @@
 # RCLootCouncil
 
-为提升分配效率，⑧团使用试用 `RCLootCouncil Classic` 分配插件，**请及时下载安装，否则无法参与分配**。
+为提升分配效率，⑧团使用 `RCLootCouncil Classic` 分配插件，**请及时下载安装，否则无法参与分配**。
 
 ## 安装方式
 
