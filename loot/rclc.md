@@ -1,14 +1,16 @@
 # RCLootCouncil
 
-为提升分配效率，⑧团使用 `RCLootCouncil Classic` 分配插件，**请及时下载安装，否则无法参与分配**。
+为提升分配效率，⑧团使用 `RCLootCouncil Classic` 分配插件，**请及时下载安装，否则可能无法参与分配**。
 
 ## 安装方式
 
-1. [桃乐豆](http://www.taoledou.com/) 搜索 `RCLootCouncil Classic`
-2. 在 [CurseForge](https://www.curseforge.com/wow/addons/rclootcouncil-classic/files) 下载最新版
-3. 在群内下载最新安装包（下载后推荐使用桃乐豆保持更新）
+- [桃乐豆](http://www.taoledou.com/) 搜索 `RCLootCouncil Classic`
+- 在 [CurseForge](https://www.curseforge.com/wow/addons/rclootcouncil-classic/files) 下载最新版
+- 在群内下载最新安装包（下载后推荐使用桃乐豆保持更新）
 
-注意：`RCLootCouncil Classic`，不是 RCLootCouncil Classic - EPGP。
+注意：
+- `RCLootCouncil Classic`，不是 RCLootCouncil Classic - EPGP。
+- 安装后无需进行任何设置。
 
 ## 安装验证
 
@@ -34,6 +36,18 @@
    ![](rclc_voting_frame.png)
 
 3. 倒计时结束后按投票情况进行分配和扣分。暂定倒计时 60 秒，之后酌情调整。
+
+4. 因合理意外情况未安装插件，可以密语分配者来投票，密语格式：
+
+   `物品编号 需求类型 当前物品1 当前物品2`
+
+   - **物品编号**：分配者通告中，物品链接前面的数字序号。
+   - **需求类型**：数字 1234，1（需求）、2（贪婪）、3（收藏）、4（工作服）。
+   - **当前物品**：已有物品的链接，让分配者决定你是否可以贪婪以及补分。主副手、戒指、饰品需要发送两件，中间有空格。
+
+   密语投票成功会收到密语提示，否则为失败。请在清小怪时自行安装插件，密语格式错误或超时多次后不予分配装备。如果忘记可以密语分配者 `rchelp` 获取帮助。
+
+   ![](rclc_whisper.png)
 
 ## 议会
 
